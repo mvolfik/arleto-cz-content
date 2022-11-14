@@ -3,13 +3,11 @@
   "price": 75,
   "stock": 30,
   "image": {
-    "id": "71b90619-ed8c-43e5-be79-635a19dd84e0.jpeg-2682b417ec-e4b8ccec44",
+    "id": "and1t.jpg-26d8c34e04-80818e6224",
     "sizes": [
-      306,
-      2448,
-      153,
-      612,
-      1224
+      147,
+      294,
+      589
     ],
     "formats": [
       "jpg",
@@ -28,6 +26,32 @@
     }
   ],
   "gallery": [
+    {
+      "image": {
+        "id": "zak1t.jpg-26d8c35ab1-5379740240",
+        "sizes": [
+          190,
+          380
+        ],
+        "formats": [
+          "jpg",
+          "webp"
+        ]
+      }
+    },
+    {
+      "image": {
+        "id": "zak3t.jpg-26d8c35dc4-ec3b535fe3",
+        "sizes": [
+          190,
+          380
+        ],
+        "formats": [
+          "jpg",
+          "webp"
+        ]
+      }
+    }
   ],
   "body": "První odstavec popisu.\n\nDruhý odstavec popisu."
 }
