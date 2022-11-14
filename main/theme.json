@@ -1,12 +1,27 @@
 {
   "banner": {
-    "id": "banner.jpg-2682b41e68-a80d3f6eda",
-    "sizes": [1756, 219, 878, 439],
-    "formats": ["webp", "jpg"]
+    "id": "webbackground.jpg-26d8c3916e-604d289ba2",
+    "sizes": [
+      200,
+      400,
+      800
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ]
   },
   "error_image": {
-    "id": "prebiram.png-2682b41eb6-5761597247",
-    "sizes": [170, 680, 340],
-    "formats": ["webp", "png"]
+    "id": "err.jpg-26d8c39d26-8a8b76a33c",
+    "sizes": [
+      188,
+      377,
+      754,
+      1508
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ]
   }
 }
