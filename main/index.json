@@ -1,8 +1,15 @@
 {
   "image": {
-    "id": "hero.jpg-2682b41a24-f55c3c0029",
-    "sizes": [480, 960, 1920, 3840, 240],
-    "formats": ["jpg", "webp"]
+    "id": "intro.jpg-26d8c3ac05-ffd61426a0",
+    "sizes": [
+      200,
+      400,
+      800
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ]
   },
   "text": "\\*1979 v Teplicích\n\nvýtvarnice, grafička, ilustrátorka, učitelka výtvarky, autorka edukačních programů, lektorka grafických technik\n\nVěnuji se obrazovým příběhům pro děti i jejich rodiče. Mám ráda textilní materiály, ze kterých vytvářím příběhy. Kombinuji nové a staré textilie, ráda kreslím nitěmi.\n\nPřitahuje mne napětí mezi strohým grafickým projevem a tvárným a proměnlivým textilem. Pracuji na velkoformátových výšivkách projektu Nitka a Linka. Proměňuji textilní struktury ve grafické.\n\nVěnuji se rozvíjení textilních dovedností u dětí, navrhla jsem pro ně sadu šitíček Na nitě je tužka krátká. Snažím se malým vyšívačům pomoci, aby je první pokusy s nití neodradily, ale objevily tvůrčí prostor pro jejich vlastní příběhy a hru s materiálem."
 }
