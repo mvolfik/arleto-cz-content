@@ -1,0 +1,33 @@
+{
+  "title": "Testovací produkt",
+  "price": 75,
+  "stock": 30,
+  "image": {
+    "id": "71b90619-ed8c-43e5-be79-635a19dd84e0.jpeg-2682b417ec-e4b8ccec44",
+    "sizes": [
+      306,
+      2448,
+      153,
+      612,
+      1224
+    ],
+    "formats": [
+      "jpg",
+      "webp"
+    ]
+  },
+  "description": "popisek testovacího produktu",
+  "props": [
+    {
+      "key": "rozměr",
+      "value": "1 x 2 x 3 cm"
+    },
+    {
+      "key": "typ produktu",
+      "value": "testovací"
+    }
+  ],
+  "gallery": [
+  ],
+  "body": "První odstavec popisu.\n\nDruhý odstavec popisu."
+}
