@@ -53,5 +53,5 @@
       }
     }
   ],
-  "body": "První odstavec popisu.\n\nDruhý odstavec popisu."
+  "body": "První odstavec popisu.\n\nDruhý odstavec \n\n![fooo](assets/and1t.jpg \"bar baz\")\n\n popisu."
 }
