@@ -53,5 +53,5 @@
       }
     }
   ],
-  "body": "První odstavec popisu.\n\nDruhý odstavec popisu.\n\n\n\n\n\n::img{id=Screenshot-from-2022-10-25-17-53-08.png-26d9270281-26116d7f0c sizes=240,480,960,1920 formats=png,webp}"
+  "body": "První odstavec popisu.\n\n::img{id=intro.jpg-26d927198d-ffd61426a0 sizes=200,400,800 formats=jpg,webp}\n\nDruhý odstavec popisu."
 }
